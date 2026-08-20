@@ -15,15 +15,21 @@ This repository contains the first draft materials for an AI training roadmap an
 
 ### 1. AI Training Roadmap
 
-- File: [LKsamyang_AI훈련로드맵_SOJT_PBL.md](./LKsamyang_AI훈련로드맵_SOJT_PBL.md)
+- File: [proposal/LKsamyang_AI훈련로드맵_SOJT_PBL.md](./proposal/LKsamyang_AI훈련로드맵_SOJT_PBL.md)
 - Summary:
   AI training roadmap, implementation phases, department-level project themes, KPI examples, and expected outcomes
 
 ### 2. PPT Outline
 
-- File: [LKsamyang_AI훈련로드맵_PPT구성안.md](./LKsamyang_AI훈련로드맵_PPT구성안.md)
+- File: [ppt/LKsamyang_AI훈련로드맵_PPT구성안.md](./ppt/LKsamyang_AI훈련로드맵_PPT구성안.md)
 - Summary:
   Presentation structure for internal reporting or proposal delivery, including slide titles, key messages, and suggested flow
+
+## Repository Structure
+
+- `proposal/`: proposal and roadmap documents
+- `ppt/`: presentation outline and future slide materials
+- `docs/`: optional reference materials to add later
 
 ## Expected Use
 
