@@ -29,7 +29,7 @@ This repository contains the first draft materials for an AI training roadmap an
 
 - `proposal/`: proposal and roadmap documents
 - `ppt/`: presentation outline and future slide materials
-- `docs/`: optional reference materials to add later
+- `docs/`: reference materials and supporting notes
 
 ## Expected Use
 
