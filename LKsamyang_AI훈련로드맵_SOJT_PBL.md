@@ -1,8 +1,8 @@
-# LK삼양 AI 훈련로드맵 및 SOJT(체계적 현장훈련) 기반 PBL 훈련프로그램(안)
+# LKsamyang AI 훈련로드맵 및 SOJT(체계적 현장훈련) 기반 PBL 훈련프로그램(안)
 
 ## 1. 추진 배경
 
-LK삼양은 광학 렌즈 전문 제조기업으로서 사진·영상용 렌즈뿐 아니라 머신비전 렌즈와 열화상 솔루션까지 사업영역을 확장하고 있다. 이에 따라 연구개발, 생산품질, 영업마케팅, 고객지원, 경영관리 전 부문에서 데이터 기반 의사결정과 생성형 AI 활용 역량이 기업 경쟁력의 핵심 요소가 되고 있다.
+LKsamyang은 광학 렌즈 전문 제조기업으로서 사진·영상용 렌즈뿐 아니라 머신비전 렌즈와 열화상 솔루션까지 사업영역을 확장하고 있다. 이에 따라 연구개발, 생산품질, 영업마케팅, 고객지원, 경영관리 전 부문에서 데이터 기반 의사결정과 생성형 AI 활용 역량이 기업 경쟁력의 핵심 요소가 되고 있다.
 
 이번 훈련은 단순한 AI 도구 사용 교육이 아니라, 현업 문제를 중심으로 실제 개선과제를 해결하는 방식으로 설계한다. 이를 위해 `AI 훈련로드맵 수립` 이후 `SOJT(체계적 현장훈련)`와 `PBL(Project/Problem Based Learning)`을 결합하여 부서별 실전 과제를 수행하도록 한다.
 
@@ -188,12 +188,12 @@ SOJT는 현업 직무를 기반으로 훈련계획, 시범, 실습, 피드백, �
 
 ## 11. 결론
 
-LK삼양의 AI 훈련은 범용 교육보다 `광학·머신비전·열화상 사업 특성에 맞는 현업 과제 중심 설계`가 중요하다. 따라서 `AI 훈련로드맵 수립 → 공통역량 교육 → 직무별 심화 → SOJT 기반 PBL 현장 적용 → 성과 확산`의 구조로 운영하는 것이 가장 효과적이다.
+LKsamyang의 AI 훈련은 범용 교육보다 `광학·머신비전·열화상 사업 특성에 맞는 현업 과제 중심 설계`가 중요하다. 따라서 `AI 훈련로드맵 수립 → 공통역량 교육 → 직무별 심화 → SOJT 기반 PBL 현장 적용 → 성과 확산`의 구조로 운영하는 것이 가장 효과적이다.
 
-본 제안은 교육 자체보다 `업무 혁신 결과`를 남기는 데 목적이 있으며, 향후 LK삼양의 디지털 전환과 실무형 AI 조직문화 정착의 기반이 될 수 있다.
+본 제안은 교육 자체보다 `업무 혁신 결과`를 남기는 데 목적이 있으며, 향후 LKsamyang의 디지털 전환과 실무형 AI 조직문화 정착의 기반이 될 수 있다.
 
 ## 참고한 회사 정보
 
-- LK삼양 회사소개: https://www.lksamyang.com/ko/about/introduce.php
-- LK삼양 Industrial Solutions: https://biz.lksamyang.com/ko/
-- LK삼양 연혁/사업 정보: https://biz.lksamyang.com/ko/about.php
+- LKsamyang 회사소개: https://www.lksamyang.com/ko/about/introduce.php
+- LKsamyang Industrial Solutions: https://biz.lksamyang.com/ko/
+- LKsamyang 연혁/사업 정보: https://biz.lksamyang.com/ko/about.php

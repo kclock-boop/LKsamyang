@@ -1,8 +1,8 @@
-# LK삼양 AI 훈련로드맵 발표용 PPT 구성안
+# LKsamyang AI 훈련로드맵 발표용 PPT 구성안
 
 ## 발표 개요
 
-- 발표 주제: LK삼양 AI 훈련로드맵 및 SOJT 기반 PBL 훈련프로그램 제안
+- 발표 주제: LKsamyang AI 훈련로드맵 및 SOJT 기반 PBL 훈련프로그램 제안
 - 예상 청중: 경영진, 부서장, 실무 리더
 - 발표 목적: AI 훈련 추진 필요성 공유 및 실행방안 승인
 - 권장 분량: 10~12장, 15분 내외
@@ -13,7 +13,7 @@
 
 ### 제목
 
-LK삼양 AI 훈련로드맵 및  
+LKsamyang AI 훈련로드맵 및  
 SOJT 기반 PBL 훈련프로그램 제안
 
 ### 부제
@@ -32,11 +32,11 @@ SOJT 기반 PBL 훈련프로그램 제안
 
 ### 제목
 
-왜 지금 LK삼양에 AI 훈련이 필요한가
+왜 지금 LKsamyang에 AI 훈련이 필요한가
 
 ### 핵심 메시지
 
-LK삼양은 광학 렌즈, 머신비전, 열화상 솔루션 사업을 전개하고 있으며, 전 부문에서 데이터 활용과 AI 기반 업무혁신 역량 확보가 필요하다.
+LKsamyang은 광학 렌즈, 머신비전, 열화상 솔루션 사업을 전개하고 있으며, 전 부문에서 데이터 활용과 AI 기반 업무혁신 역량 확보가 필요하다.
 
 ### 본문 포인트
 
@@ -47,7 +47,7 @@ LK삼양은 광학 렌즈, 머신비전, 열화상 솔루션 사업을 전개하
 
 ### 발표 멘트 예시
 
-LK삼양은 제품 경쟁력뿐 아니라 업무 방식의 고도화가 필요한 시점입니다. 특히 반복 문서업무와 정보분석, 고객대응 영역에서 AI 활용은 빠른 성과를 낼 수 있습니다.
+LKsamyang은 제품 경쟁력뿐 아니라 업무 방식의 고도화가 필요한 시점입니다. 특히 반복 문서업무와 정보분석, 고객대응 영역에서 AI 활용은 빠른 성과를 낼 수 있습니다.
 
 ---
 
@@ -95,7 +95,7 @@ AI 훈련의 목표
 
 ### 제목
 
-LK삼양 AI 훈련로드맵
+LKsamyang AI 훈련로드맵
 
 ### 핵심 메시지
 
@@ -261,7 +261,7 @@ PBL 기반 8주 운영 예시
 
 ### 핵심 메시지
 
-LK삼양형 AI 훈련은 범용교육보다 현업 과제 중심의 SOJT-PBL 방식이 효과적이다.
+LKsamyang형 AI 훈련은 범용교육보다 현업 과제 중심의 SOJT-PBL 방식이 효과적이다.
 
 ### 본문 포인트
 
@@ -271,7 +271,7 @@ LK삼양형 AI 훈련은 범용교육보다 현업 과제 중심의 SOJT-PBL 방
 
 ### 마무리 문구 예시
 
-LK삼양의 사업 특성과 업무현장에 맞춘 AI 훈련체계를 통해, 교육이 아닌 실질적 업무혁신 성과를 만들겠습니다.
+LKsamyang의 사업 특성과 업무현장에 맞춘 AI 훈련체계를 통해, 교육이 아닌 실질적 업무혁신 성과를 만들겠습니다.
 
 ---
 
@@ -287,6 +287,6 @@ LK삼양의 사업 특성과 업무현장에 맞춘 AI 훈련체계를 통해, �
 
 ## 발표자료 작성 시 참고할 출처
 
-- LK삼양 회사소개: https://www.lksamyang.com/ko/about/introduce.php
-- LK삼양 Industrial Solutions: https://biz.lksamyang.com/ko/
-- LK삼양 연혁/사업 정보: https://biz.lksamyang.com/ko/about.php
+- LKsamyang 회사소개: https://www.lksamyang.com/ko/about/introduce.php
+- LKsamyang Industrial Solutions: https://biz.lksamyang.com/ko/
+- LKsamyang 연혁/사업 정보: https://biz.lksamyang.com/ko/about.php
