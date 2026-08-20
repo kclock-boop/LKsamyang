@@ -1,19 +1,45 @@
 # LKsamyang
 
-AI training roadmap and presentation draft materials for LKsamyang.
+LKsamyang AI training proposal repository.
 
-## Files
+This repository contains the first draft materials for an AI training roadmap and a SOJT-based PBL training program designed for LKsamyang.
 
-- [LKsamyang_AI훈련로드맵_SOJT_PBL.md](./LKsamyang_AI훈련로드맵_SOJT_PBL.md)
-- [LKsamyang_AI훈련로드맵_PPT구성안.md](./LKsamyang_AI훈련로드맵_PPT구성안.md)
+## Overview
 
-## Contents
+- Company: LKsamyang
+- Topic: AI training roadmap and execution plan
+- Method: SOJT (Systematic On-the-Job Training) + PBL (Project / Problem Based Learning)
+- Purpose: Internal proposal, executive reporting, and training program planning
 
-- AI training roadmap draft
-- SOJT(Systematic On-the-Job Training) based PBL program draft
-- Presentation outline for internal proposal or executive reporting
+## Documents
+
+### 1. AI Training Roadmap
+
+- File: [LKsamyang_AI훈련로드맵_SOJT_PBL.md](./LKsamyang_AI훈련로드맵_SOJT_PBL.md)
+- Summary:
+  AI training roadmap, implementation phases, department-level project themes, KPI examples, and expected outcomes
+
+### 2. PPT Outline
+
+- File: [LKsamyang_AI훈련로드맵_PPT구성안.md](./LKsamyang_AI훈련로드맵_PPT구성안.md)
+- Summary:
+  Presentation structure for internal reporting or proposal delivery, including slide titles, key messages, and suggested flow
+
+## Expected Use
+
+- Review the overall AI training direction for LKsamyang
+- Use the roadmap draft as a base document for proposal writing
+- Use the PPT outline to build presentation slides for management or department leaders
+- Expand the repository later with final PPT, proposal documents, and supporting materials
+
+## Reference Sources
+
+- Official website: [https://www.lksamyang.com/ko/index.php](https://www.lksamyang.com/ko/index.php)
+- Company introduction: [https://www.lksamyang.com/ko/about/introduce.php](https://www.lksamyang.com/ko/about/introduce.php)
+- Industrial solutions: [https://biz.lksamyang.com/ko/](https://biz.lksamyang.com/ko/)
 
 ## Notes
 
-- Repository created for the first draft of the LKsamyang AI training proposal
-- Source references are included in each document
+- This repository is the first working version as of August 20, 2026.
+- Source references are included in each document where relevant.
+- Additional deliverables can be added in later updates.
