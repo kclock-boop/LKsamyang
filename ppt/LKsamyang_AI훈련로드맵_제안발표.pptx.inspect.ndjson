@@ -1,0 +1,229 @@
+{"kind":"deck","id":"pr/05bc98","name":"Deck"}
+{"kind":"layout","layoutId":"c87299f4-4557-480e-a025-ef9ba26b0091","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"f7447827-a562-4820-99c3-bcda7bdae7d6","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/58q133","slide":1,"title":"LKsamyang AI 훈련로드맵 및","textShapes":5}
+{"kind":"shape","id":"sh/psfmh0ne","slide":1,"bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/25o36l4n","slide":1,"bbox":[0,0,1280,16]}
+{"kind":"textbox","id":"sh/36x4fq58","slide":1,"text":"LKsamyang AI 훈련로드맵 및\nSOJT 기반 PBL 훈련프로그램 제안","textPreview":"LKsamyang AI 훈련로드맵 및 | SOJT 기반 PBL 훈련프로그램 제안","textChars":42,"textLines":2,"bbox":[92,120,860,160]}
+{"kind":"textbox","id":"sh/cv65cvmp","slide":1,"text":"현업 과제 해결형 AI 역량 내재화 방안","textPreview":"현업 과제 해결형 AI 역량 내재화 방안","textChars":22,"textLines":1,"bbox":[96,300,640,40]}
+{"kind":"shape","id":"sh/dwfml0na","slide":1,"bbox":[910,96,250,250]}
+{"kind":"textbox","id":"sh/qto3a54j","slide":1,"text":"OPTICS\nAI\nROADMAP","textPreview":"OPTICS | AI | ROADMAP","textChars":17,"textLines":3,"bbox":[945,170,180,80]}
+{"kind":"textbox","id":"sh/bux4ja54","slide":1,"text":"2026.08\nLKsamyang AI Training Proposal\n발표자명","textPreview":"2026.08 | LKsamyang AI Training Proposal | 발표자명","textChars":43,"textLines":3,"bbox":[96,560,400,90]}
+{"kind":"textbox","id":"sh/0zq5gfm1","slide":1,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[1160,680,40,20]}
+{"kind":"notes","id":"nt/58q133","slide":1,"text":"LKsamyang AI 훈련로드맵 및\nSOJT 기반 PBL 훈련프로그램 제안\n\n[Sources]\n- https://www.lksamyang.com/ko/index.php\n- https://www.lksamyang.com/ko/about/introduce.php\n- https://biz.lksamyang.com/ko/\n- https://biz.lksamyang.com/ko/about.php"}
+{"kind":"slide","id":"sl/gbxdij","slide":2,"title":"왜 지금 AI 훈련이 필요한가","textShapes":7}
+{"kind":"textbox","id":"sh/8be1czyx","slide":2,"text":"왜 지금 AI 훈련이 필요한가","textPreview":"왜 지금 AI 훈련이 필요한가","textChars":16,"textLines":1,"bbox":[72,54,780,70]}
+{"kind":"textbox","id":"sh/na50jexc","slide":2,"text":"AI 역량은 업무 생산성과 품질을 좌우하는 핵심 경쟁요소입니다.","textPreview":"AI 역량은 업무 생산성과 품질을 좌우하는 핵심 경쟁요소입니다.","textChars":35,"textLines":1,"bbox":[72,132,840,44]}
+{"kind":"shape","id":"sh/m9wja9g7","slide":2,"bbox":[72,186,1136,1]}
+{"kind":"shape","id":"sh/x07ipofu","slide":2,"bbox":[72,210,510,390]}
+{"kind":"textbox","id":"sh/wze1gjy9","slide":2,"text":"• 광학렌즈 중심에서 머신비전·열화상 솔루션 영역으로 확대\n• 연구개발, 생산품질, 영업, 고객지원 전 부문 문서·분석 업무 증가\n• 생성형 AI는 보고, 분석, 응대, 지식정리 속도 향상에 효과적\n• 범용교육이 아닌 현업 적용형 훈련체계 필요","textPreview":"• 광학렌즈 중심에서 머신비전·열화상 솔루션 영역으로 확대 | • 연구개발, 생산품질, 영업, 고객지원 전 부문 문서·분석 업무 증가 | • 생성형 AI는 보고, 분석, 응대, 지식정리 속도 향상에 효과적 | • 범용교육이 아닌 현업 적용형 훈련...","textChars":136,"textLines":4,"bbox":[102,244,450,320]}
+{"kind":"shape","id":"sh/vy50nexo","slide":2,"bbox":[650,280,128,130]}
+{"kind":"textbox","id":"sh/adwje9g3","slide":2,"text":"사업 확대","textPreview":"사업 확대","textChars":5,"textLines":1,"bbox":[660,308,108,70]}
+{"kind":"shape","id":"sh/547itofq","slide":2,"bbox":[780,330,12,24]}
+{"kind":"shape","id":"sh/k3y1kjy5","slide":2,"bbox":[794,280,128,130]}
+{"kind":"textbox","id":"sh/y9s7id0z","slide":2,"text":"업무 복잡도 증가","textPreview":"업무 복잡도 증가","textChars":9,"textLines":1,"bbox":[804,308,108,70]}
+{"kind":"shape","id":"sh/ja18bihk","slide":2,"bbox":[924,330,12,24]}
+{"kind":"shape","id":"sh/kbapkny5","slide":2,"bbox":[938,280,128,130]}
+{"kind":"textbox","id":"sh/lcjqdszq","slide":2,"text":"AI 역량 필요","textPreview":"AI 역량 필요","textChars":8,"textLines":1,"bbox":[948,308,108,70]}
+{"kind":"textbox","id":"sh/6dsrmxgb","slide":2,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[1160,680,40,20]}
+{"kind":"notes","id":"nt/gbxdij","slide":2,"text":"왜 지금 AI 훈련이 필요한가\n\n[Sources]\n- https://www.lksamyang.com/ko/index.php\n- https://www.lksamyang.com/ko/about/introduce.php\n- https://biz.lksamyang.com/ko/\n- https://biz.lksamyang.com/ko/about.php"}
+{"kind":"slide","id":"sl/oht3f5","slide":3,"title":"AI 훈련의 목표","textShapes":8}
+{"kind":"textbox","id":"sh/filcjudg","slide":3,"text":"AI 훈련의 목표","textPreview":"AI 훈련의 목표","textChars":9,"textLines":1,"bbox":[72,54,780,70]}
+{"kind":"textbox","id":"sh/gjudszu1","slide":3,"text":"교육 수료가 아니라 현업 적용과 성과 창출이 목표입니다.","textPreview":"교육 수료가 아니라 현업 적용과 성과 창출이 목표입니다.","textChars":31,"textLines":1,"bbox":[72,132,840,44]}
+{"kind":"shape","id":"sh/1k3ul4vm","slide":3,"bbox":[72,186,1136,1]}
+{"kind":"shape","id":"sh/2lcvu9c7","slide":3,"bbox":[72,210,340,145]}
+{"kind":"textbox","id":"sh/365cneds","slide":3,"text":"임직원 AI 기본 활용역량 확보","textPreview":"임직원 AI 기본 활용역량 확보","textChars":17,"textLines":1,"bbox":[94,240,296,105]}
+{"kind":"shape","id":"sh/o7edwjud","slide":3,"bbox":[442,210,340,145]}
+{"kind":"textbox","id":"sh/p8nup4vi","slide":3,"text":"부서별 핵심업무 AI 적용 시나리오 설계","textPreview":"부서별 핵심업무 AI 적용 시나리오 설계","textChars":22,"textLines":1,"bbox":[464,240,296,105]}
+{"kind":"shape","id":"sh/q9wvy9c3","slide":3,"bbox":[812,210,340,145]}
+{"kind":"textbox","id":"sh/ba5credo","slide":3,"text":"현업 과제 기반 프로젝트 수행","textPreview":"현업 과제 기반 프로젝트 수행","textChars":16,"textLines":1,"bbox":[834,240,296,105]}
+{"kind":"shape","id":"sh/zu1cbuhw","slide":3,"bbox":[72,381,340,145]}
+{"kind":"textbox","id":"sh/et8v2p0b","slide":3,"text":"사내 표준 프롬프트와 활용사례 축적","textPreview":"사내 표준 프롬프트와 활용사례 축적","textChars":19,"textLines":1,"bbox":[94,411,296,105]}
+{"kind":"shape","id":"sh/lwjud4z2","slide":3,"bbox":[442,381,340,145]}
+{"kind":"textbox","id":"sh/0vad4zih","slide":3,"text":"교육 이후 자율 확산 체계 구축","textPreview":"교육 이후 자율 확산 체계 구축","textChars":17,"textLines":1,"bbox":[464,411,296,105]}
+{"kind":"textbox","id":"sh/rqhc7ah0","slide":3,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[1160,680,40,20]}
+{"kind":"notes","id":"nt/oht3f5","slide":3,"text":"AI 훈련의 목표\n\n[Sources]\n- https://www.lksamyang.com/ko/index.php\n- https://www.lksamyang.com/ko/about/introduce.php\n- https://biz.lksamyang.com/ko/\n- https://biz.lksamyang.com/ko/about.php"}
+{"kind":"slide","id":"sl/zd9etk","slide":4,"title":"운영 방향과 설계 원칙","textShapes":8}
+{"kind":"textbox","id":"sh/dk72l4bm","slide":4,"text":"운영 방향과 설계 원칙","textPreview":"운영 방향과 설계 원칙","textChars":12,"textLines":1,"bbox":[72,54,780,70]}
+{"kind":"textbox","id":"sh/qhgjqpsb","slide":4,"text":"현업 중심, 실습 중심, 성과 중심으로 운영합니다.","textPreview":"현업 중심, 실습 중심, 성과 중심으로 운영합니다.","textChars":28,"textLines":1,"bbox":[72,132,840,44]}
+{"kind":"shape","id":"sh/bipkjutg","slide":4,"bbox":[72,186,1136,1]}
+{"kind":"shape","id":"sh/07ilwzad","slide":4,"bbox":[72,210,340,145]}
+{"kind":"textbox","id":"sh/l8r2p4by","slide":4,"text":"현업 우선","textPreview":"현업 우선","textChars":5,"textLines":1,"bbox":[94,240,296,105]}
+{"kind":"shape","id":"sh/ylgjups7","slide":4,"bbox":[442,210,340,145]}
+{"kind":"textbox","id":"sh/zmpknuts","slide":4,"text":"단계별 확산","textPreview":"단계별 확산","textChars":6,"textLines":1,"bbox":[464,240,296,105]}
+{"kind":"shape","id":"sh/gbe1kfut","slide":4,"bbox":[812,210,340,145]}
+{"kind":"textbox","id":"sh/1cn2dkbe","slide":4,"text":"실습 중심","textPreview":"실습 중심","textChars":5,"textLines":1,"bbox":[834,240,296,105]}
+{"kind":"shape","id":"sh/xozmlofa","slide":4,"bbox":[72,381,340,145]}
+{"kind":"textbox","id":"sh/wnq5cjep","slide":4,"text":"표준화","textPreview":"표준화","textChars":3,"textLines":1,"bbox":[94,411,296,105]}
+{"kind":"shape","id":"sh/bmx4jex4","slide":4,"bbox":[442,381,340,145]}
+{"kind":"textbox","id":"sh/alona9wj","slide":4,"text":"성과관리","textPreview":"성과관리","textChars":4,"textLines":1,"bbox":[464,411,296,105]}
+{"kind":"textbox","id":"sh/lszmpof6","slide":4,"text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[1160,680,40,20]}
+{"kind":"notes","id":"nt/zd9etk","slide":4,"text":"운영 방향과 설계 원칙\n\n[Sources]\n- https://www.lksamyang.com/ko/index.php\n- https://www.lksamyang.com/ko/about/introduce.php\n- https://biz.lksamyang.com/ko/\n- https://biz.lksamyang.com/ko/about.php"}
+{"kind":"slide","id":"sl/hrcdbw","slide":5,"title":"AI 훈련로드맵","textShapes":13}
+{"kind":"textbox","id":"sh/4jilofu9","slide":5,"text":"AI 훈련로드맵","textPreview":"AI 훈련로드맵","textChars":8,"textLines":1,"bbox":[72,54,780,70]}
+{"kind":"textbox","id":"sh/3i9kvato","slide":5,"text":"진단부터 적용, 확산까지 5단계로 추진합니다.","textPreview":"진단부터 적용, 확산까지 5단계로 추진합니다.","textChars":25,"textLines":1,"bbox":[72,132,840,44]}
+{"kind":"shape","id":"sh/ihg3m5cj","slide":5,"bbox":[72,186,1136,1]}
+{"kind":"shape","id":"sh/hg72t0by","slide":5,"bbox":[82,290,188,120]}
+{"kind":"textbox","id":"sh/gfylkvud","slide":5,"text":"진단 및 설계","textPreview":"진단 및 설계","textChars":7,"textLines":1,"bbox":[100,308,152,70]}
+{"kind":"textbox","id":"sh/vepkrats","slide":5,"text":"1단계","textPreview":"1단계","textChars":3,"textLines":1,"bbox":[100,372,152,24]}
+{"kind":"shape","id":"sh/udg3i5c7","slide":5,"bbox":[280,335,18,30]}
+{"kind":"shape","id":"sh/tc72p0bm","slide":5,"bbox":[302,290,188,120]}
+{"kind":"textbox","id":"sh/8bylgvu1","slide":5,"text":"공통역량 내재화","textPreview":"공통역량 내재화","textChars":8,"textLines":1,"bbox":[320,308,152,70]}
+{"kind":"textbox","id":"sh/exczilov","slide":5,"text":"2단계","textPreview":"2단계","textChars":3,"textLines":1,"bbox":[320,372,152,24]}
+{"kind":"shape","id":"sh/fyl0bqpg","slide":5,"bbox":[500,335,18,30]}
+{"kind":"shape","id":"sh/0zu1kv61","slide":5,"bbox":[522,290,188,120]}
+{"kind":"textbox","id":"sh/103id07m","slide":5,"text":"직무별 심화 실습","textPreview":"직무별 심화 실습","textChars":9,"textLines":1,"bbox":[540,308,152,70]}
+{"kind":"textbox","id":"sh/q9szeloz","slide":5,"text":"3단계","textPreview":"3단계","textChars":3,"textLines":1,"bbox":[540,372,152,24]}
+{"kind":"shape","id":"sh/ra107qpk","slide":5,"bbox":[720,335,18,30]}
+{"kind":"shape","id":"sh/svahgv6p","slide":5,"bbox":[742,290,188,120]}
+{"kind":"textbox","id":"sh/dwji9g7a","slide":5,"text":"SOJT 기반 PBL 현장 적용","textPreview":"SOJT 기반 PBL 현장 적용","textChars":17,"textLines":1,"bbox":[760,308,152,70]}
+{"kind":"textbox","id":"sh/i5sza1on","slide":5,"text":"4단계","textPreview":"4단계","textChars":3,"textLines":1,"bbox":[760,372,152,24]}
+{"kind":"shape","id":"sh/j610j6p8","slide":5,"bbox":[940,335,18,30]}
+{"kind":"shape","id":"sh/7axgb250","slide":5,"bbox":[962,290,188,120]}
+{"kind":"textbox","id":"sh/m9ofix4f","slide":5,"text":"성과 확산 및 정착","textPreview":"성과 확산 및 정착","textChars":10,"textLines":1,"bbox":[980,308,152,70]}
+{"kind":"textbox","id":"sh/9cfydcn6","slide":5,"text":"5단계","textPreview":"5단계","textChars":3,"textLines":1,"bbox":[980,372,152,24]}
+{"kind":"textbox","id":"sh/8b6xk7ml","slide":5,"text":"5","textPreview":"5","textChars":1,"textLines":1,"bbox":[1160,680,40,20]}
+{"kind":"notes","id":"nt/hrcdbw","slide":5,"text":"AI 훈련로드맵\n\n[Sources]\n- https://www.lksamyang.com/ko/index.php\n- https://www.lksamyang.com/ko/about/introduce.php\n- https://biz.lksamyang.com/ko/\n- https://biz.lksamyang.com/ko/about.php"}
+{"kind":"slide","id":"sl/dgnu8q","slide":6,"title":"단계별 실행 내용","textShapes":8}
+{"kind":"textbox","id":"sh/3q94zits","slide":6,"text":"단계별 실행 내용","textPreview":"단계별 실행 내용","textChars":9,"textLines":1,"bbox":[72,54,780,70]}
+{"kind":"textbox","id":"sh/orilsnud","slide":6,"text":"각 단계는 학습보다 실행과 결과물 확보에 초점을 둡니다.","textPreview":"각 단계는 학습보다 실행과 결과물 확보에 초점을 둡니다.","textChars":31,"textLines":1,"bbox":[72,132,840,44]}
+{"kind":"shape","id":"sh/psrm1sby","slide":6,"bbox":[72,186,1136,1]}
+{"kind":"shape","id":"sh/e1g3mtcb","slide":6,"bbox":[72,200,1136,56]}
+{"kind":"textbox","id":"sh/f2pkvytw","slide":6,"text":"1단계: 인터뷰, 직무분석, 과제 도출","textPreview":"1단계: 인터뷰, 직무분석, 과제 도출","textChars":21,"textLines":1,"bbox":[96,214,1090,28]}
+{"kind":"shape","id":"sh/g3ilo3uh","slide":6,"bbox":[72,272,1136,56]}
+{"kind":"textbox","id":"sh/14r2x8bm","slide":6,"text":"2단계: AI 기초, 프롬프트, 문서·데이터 실습","textPreview":"2단계: AI 기초, 프롬프트, 문서·데이터 실습","textChars":27,"textLines":1,"bbox":[96,286,1090,28]}
+{"kind":"shape","id":"sh/6xg3itcz","slide":6,"bbox":[72,344,1136,56]}
+{"kind":"textbox","id":"sh/rypkrytk","slide":6,"text":"3단계: 직무별 심화 실습, 템플릿 개발","textPreview":"3단계: 직무별 심화 실습, 템플릿 개발","textChars":22,"textLines":1,"bbox":[96,358,1090,28]}
+{"kind":"shape","id":"sh/fi5obud0","slide":6,"bbox":[72,416,1136,56]}
+{"kind":"textbox","id":"sh/exw7ipcf","slide":6,"text":"4단계: 현업 과제 수행, 코칭, 적용","textPreview":"4단계: 현업 과제 수행, 코칭, 적용","textChars":21,"textLines":1,"bbox":[96,430,1090,28]}
+{"kind":"shape","id":"sh/1kn6d4v6","slide":6,"bbox":[72,488,1136,56]}
+{"kind":"textbox","id":"sh/gjepkzul","slide":6,"text":"5단계: 성과 발표, 표준화, 확산","textPreview":"5단계: 성과 발표, 표준화, 확산","textChars":19,"textLines":1,"bbox":[96,502,1090,28]}
+{"kind":"textbox","id":"sh/3m5ofudc","slide":6,"text":"6","textPreview":"6","textChars":1,"textLines":1,"bbox":[1160,680,40,20]}
+{"kind":"notes","id":"nt/dgnu8q","slide":6,"text":"단계별 실행 내용\n\n[Sources]\n- https://www.lksamyang.com/ko/index.php\n- https://www.lksamyang.com/ko/about/introduce.php\n- https://biz.lksamyang.com/ko/\n- https://biz.lksamyang.com/ko/about.php"}
+{"kind":"slide","id":"sl/idxz3q","slide":7,"title":"왜 SOJT와 PBL을 결합하는가","textShapes":9}
+{"kind":"textbox","id":"sh/3eporqlw","slide":7,"text":"왜 SOJT와 PBL을 결합하는가","textPreview":"왜 SOJT와 PBL을 결합하는가","textChars":18,"textLines":1,"bbox":[72,54,780,70]}
+{"kind":"textbox","id":"sh/ofyp0vmh","slide":7,"text":"배운 내용을 즉시 현장에 적용해 성과로 연결하기 위해서입니다.","textPreview":"배운 내용을 즉시 현장에 적용해 성과로 연결하기 위해서입니다.","textChars":34,"textLines":1,"bbox":[72,132,840,44]}
+{"kind":"shape","id":"sh/pg76tg32","slide":7,"bbox":[72,186,1136,1]}
+{"kind":"shape","id":"sh/qhg72l4n","slide":7,"bbox":[72,210,510,390]}
+{"kind":"textbox","id":"sh/bipovql8","slide":7,"text":"• SOJT: 직무 기반 체계적 현장훈련\n• PBL: 문제 해결형 팀 프로젝트 학습\n• 팀 단위 실제 과제 수행\n• 현업 리더와 코치의 공동 피드백\n• 결과물을 실제 업무 프로세스에 반영","textPreview":"• SOJT: 직무 기반 체계적 현장훈련 | • PBL: 문제 해결형 팀 프로젝트 학습 | • 팀 단위 실제 과제 수행 | • 현업 리더와 코치의 공동 피드백 | • 결과물을 실제 업무 프로세스에 반영","textChars":104,"textLines":5,"bbox":[102,244,450,320]}
+{"kind":"shape","id":"sh/cjyp4vmt","slide":7,"bbox":[650,280,102,130]}
+{"kind":"textbox","id":"sh/dk76x03y","slide":7,"text":"과제선정","textPreview":"과제선정","textChars":4,"textLines":1,"bbox":[660,308,82,70]}
+{"kind":"shape","id":"sh/6lcnq143","slide":7,"bbox":[754,330,12,24]}
+{"kind":"shape","id":"sh/rm5oj6lo","slide":7,"bbox":[768,280,102,130]}
+{"kind":"textbox","id":"sh/z614ne18","slide":7,"text":"직무분석","textPreview":"직무분석","textChars":4,"textLines":1,"bbox":[778,308,82,70]}
+{"kind":"shape","id":"sh/y58nu90n","slide":7,"bbox":[872,330,12,24]}
+{"kind":"shape","id":"sh/l8jmpojy","slide":7,"bbox":[886,280,102,130]}
+{"kind":"textbox","id":"sh/07a5wjid","slide":7,"text":"훈련설계","textPreview":"훈련설계","textChars":4,"textLines":1,"bbox":[896,308,82,70]}
+{"kind":"shape","id":"sh/bih4je1w","slide":7,"bbox":[990,330,12,24]}
+{"kind":"shape","id":"sh/qh83q90b","slide":7,"bbox":[1004,280,102,130]}
+{"kind":"textbox","id":"sh/d4zmloj2","slide":7,"text":"현장수행","textPreview":"현장수행","textChars":4,"textLines":1,"bbox":[1014,308,82,70]}
+{"kind":"shape","id":"sh/cjq5sjih","slide":7,"bbox":[1108,330,12,24]}
+{"kind":"shape","id":"sh/3eh4fu10","slide":7,"bbox":[1122,280,102,130]}
+{"kind":"textbox","id":"sh/2do3mp0f","slide":7,"text":"평가정착","textPreview":"평가정착","textChars":4,"textLines":1,"bbox":[1132,308,82,70]}
+{"kind":"textbox","id":"sh/69onyp47","slide":7,"text":"7","textPreview":"7","textChars":1,"textLines":1,"bbox":[1160,680,40,20]}
+{"kind":"notes","id":"nt/idxz3q","slide":7,"text":"왜 SOJT와 PBL을 결합하는가\n\n[Sources]\n- https://www.lksamyang.com/ko/index.php\n- https://www.lksamyang.com/ko/about/introduce.php\n- https://biz.lksamyang.com/ko/\n- https://biz.lksamyang.com/ko/about.php"}
+{"kind":"slide","id":"sl/fdrchc","slide":8,"title":"PBL 기반 8주 운영안","textShapes":17}
+{"kind":"textbox","id":"sh/qlsby50r","slide":8,"text":"PBL 기반 8주 운영안","textPreview":"PBL 기반 8주 운영안","textChars":13,"textLines":1,"bbox":[72,54,780,70]}
+{"kind":"textbox","id":"sh/do3a9kzi","slide":8,"text":"주차별 목표와 산출물을 명확히 관리합니다.","textPreview":"주차별 목표와 산출물을 명확히 관리합니다.","textChars":23,"textLines":1,"bbox":[72,132,840,44]}
+{"kind":"shape","id":"sh/snut0fix","slide":8,"bbox":[72,186,1136,1]}
+{"kind":"shape","id":"sh/fqlsbuho","slide":8,"bbox":[96,340,68,68]}
+{"kind":"textbox","id":"sh/epcb2p03","slide":8,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[104,359,52,20]}
+{"kind":"textbox","id":"sh/1c3ax4ze","slide":8,"text":"1주차: 킥오프, 과제정의","textPreview":"1주차: 킥오프, 과제정의","textChars":14,"textLines":1,"bbox":[72,422,116,90]}
+{"kind":"shape","id":"sh/0but4zi9","slide":8,"bbox":[164,374,82,1]}
+{"kind":"shape","id":"sh/vuhszq14","slide":8,"bbox":[246,340,68,68]}
+{"kind":"textbox","id":"sh/ut8rql0j","slide":8,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[254,359,52,20]}
+{"kind":"textbox","id":"sh/476pcni5","slide":8,"text":"2주차: 현행업무 분석","textPreview":"2주차: 현행업무 분석","textChars":12,"textLines":1,"bbox":[222,422,116,90]}
+{"kind":"shape","id":"sh/psfqlsjq","slide":8,"bbox":[314,374,82,1]}
+{"kind":"shape","id":"sh/25o7ax0z","slide":8,"bbox":[396,340,68,68]}
+{"kind":"textbox","id":"sh/36x8ji1k","slide":8,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[404,359,52,20]}
+{"kind":"textbox","id":"sh/cvqpg7i1","slide":8,"text":"3주차: AI 적용 설계","textPreview":"3주차: AI 적용 설계","textChars":13,"textLines":1,"bbox":[372,422,116,90]}
+{"kind":"shape","id":"sh/dwzqpcjm","slide":8,"bbox":[464,374,82,1]}
+{"kind":"shape","id":"sh/qt87ex0b","slide":8,"bbox":[546,340,68,68]}
+{"kind":"textbox","id":"sh/ruh8n21w","slide":8,"text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[554,359,52,20]}
+{"kind":"textbox","id":"sh/szmpk3ix","slide":8,"text":"4~5주차: 실습 및 파일럿","textPreview":"4~5주차: 실습 및 파일럿","textChars":15,"textLines":1,"bbox":[522,422,116,90]}
+{"kind":"shape","id":"sh/t0vqd8ji","slide":8,"bbox":[614,374,82,1]}
+{"kind":"shape","id":"sh/9wn6h4b6","slide":8,"bbox":[696,340,68,68]}
+{"kind":"textbox","id":"sh/8ve58zul","slide":8,"text":"5","textPreview":"5","textChars":1,"textLines":1,"bbox":[704,359,52,20]}
+{"kind":"textbox","id":"sh/nu5ofutg","slide":8,"text":"6주차: 현장 적용","textPreview":"6주차: 현장 적용","textChars":10,"textLines":1,"bbox":[672,422,116,90]}
+{"kind":"shape","id":"sh/mtwn6pcv","slide":8,"bbox":[764,374,82,1]}
+{"kind":"shape","id":"sh/h076l4bi","slide":8,"bbox":[846,340,68,68]}
+{"kind":"textbox","id":"sh/wzy5cjux","slide":8,"text":"6","textPreview":"6","textChars":1,"textLines":1,"bbox":[854,359,52,20]}
+{"kind":"textbox","id":"sh/vypojetc","slide":8,"text":"7주차: 개선 및 표준화","textPreview":"7주차: 개선 및 표준화","textChars":13,"textLines":1,"bbox":[822,422,116,90]}
+{"kind":"shape","id":"sh/axwna9cr","slide":8,"bbox":[914,374,82,1]}
+{"kind":"shape","id":"sh/5o76pobe","slide":8,"bbox":[996,340,68,68]}
+{"kind":"textbox","id":"sh/4ny5gjut","slide":8,"text":"7","textPreview":"7","textChars":1,"textLines":1,"bbox":[1004,359,52,20]}
+{"kind":"textbox","id":"sh/29s3alsb","slide":8,"text":"8주차: 발표 및 평가","textPreview":"8주차: 발표 및 평가","textChars":12,"textLines":1,"bbox":[972,422,116,90]}
+{"kind":"textbox","id":"sh/3a1kjq9w","slide":8,"text":"8","textPreview":"8","textChars":1,"textLines":1,"bbox":[1160,680,40,20]}
+{"kind":"notes","id":"nt/fdrchc","slide":8,"text":"PBL 기반 8주 운영안\n\n[Sources]\n- https://www.lksamyang.com/ko/index.php\n- https://www.lksamyang.com/ko/about/introduce.php\n- https://biz.lksamyang.com/ko/\n- https://biz.lksamyang.com/ko/about.php"}
+{"kind":"slide","id":"sl/dpx7fu","slide":9,"title":"부서별 AI 현업 과제","textShapes":8}
+{"kind":"textbox","id":"sh/6lsvmdcz","slide":9,"text":"부서별 AI 현업 과제","textPreview":"부서별 AI 현업 과제","textChars":12,"textLines":1,"bbox":[72,54,780,70]}
+{"kind":"textbox","id":"sh/tojuxsbq","slide":9,"text":"동일 교육이 아니라 부서별 과제를 중심으로 운영합니다.","textPreview":"동일 교육이 아니라 부서별 과제를 중심으로 운영합니다.","textChars":30,"textLines":1,"bbox":[72,132,840,44]}
+{"kind":"shape","id":"sh/snadonu5","slide":9,"bbox":[72,186,1136,1]}
+{"kind":"shape","id":"sh/falczitw","slide":9,"bbox":[72,200,1136,56]}
+{"kind":"textbox","id":"sh/upcvqxcb","slide":9,"text":"연구개발: 기술자료 요약, 경쟁사 분석, 시험결과 문서화","textPreview":"연구개발: 기술자료 요약, 경쟁사 분석, 시험결과 문서화","textChars":31,"textLines":1,"bbox":[96,214,1090,28]}
+{"kind":"shape","id":"sh/hc3e1sbm","slide":9,"bbox":[72,272,1136,56]}
+{"kind":"textbox","id":"sh/gbudsnuh","slide":9,"text":"생산품질: 불량보고서 표준화, CAPA 초안, 점검문서 자동화","textPreview":"생산품질: 불량보고서 표준화, CAPA 초안, 점검문서 자동화","textChars":34,"textLines":1,"bbox":[96,286,1090,28]}
+{"kind":"shape","id":"sh/3elw32ts","slide":9,"bbox":[72,344,1136,56]}
+{"kind":"textbox","id":"sh/2dcvuxc7","slide":9,"text":"영업마케팅: 제품 제안서, 영문 이메일, 콘텐츠 기획","textPreview":"영업마케팅: 제품 제안서, 영문 이메일, 콘텐츠 기획","textChars":29,"textLines":1,"bbox":[96,358,1090,28]}
+{"kind":"shape","id":"sh/wna98fm1","slide":9,"bbox":[72,416,1136,56]}
+{"kind":"textbox","id":"sh/xoja1kn6","slide":9,"text":"고객지원: FAQ 개편, VOC 분류, 응대 시나리오 작성","textPreview":"고객지원: FAQ 개편, VOC 분류, 응대 시나리오 작성","textChars":32,"textLines":1,"bbox":[96,430,1090,28]}
+{"kind":"shape","id":"sh/alsr654v","slide":9,"bbox":[72,488,1136,56]}
+{"kind":"textbox","id":"sh/vm18za5g","slide":9,"text":"경영지원: 회의록, 보고서, 규정 문서 요약","textPreview":"경영지원: 회의록, 보고서, 규정 문서 요약","textChars":24,"textLines":1,"bbox":[96,502,1090,28]}
+{"kind":"textbox","id":"sh/kra9cfmx","slide":9,"text":"9","textPreview":"9","textChars":1,"textLines":1,"bbox":[1160,680,40,20]}
+{"kind":"notes","id":"nt/dpx7fu","slide":9,"text":"부서별 AI 현업 과제\n\n[Sources]\n- https://www.lksamyang.com/ko/index.php\n- https://www.lksamyang.com/ko/about/introduce.php\n- https://biz.lksamyang.com/ko/\n- https://biz.lksamyang.com/ko/about.php"}
+{"kind":"slide","id":"sl/rw8anc","slide":10,"title":"기대성과와 KPI","textShapes":15}
+{"kind":"textbox","id":"sh/fepcfyho","slide":10,"text":"기대성과와 KPI","textPreview":"기대성과와 KPI","textChars":9,"textLines":1,"bbox":[72,54,780,70]}
+{"kind":"textbox","id":"sh/gfyd83i9","slide":10,"text":"성과는 수료율보다 현업 적용과 생산성 개선으로 측정합니다.","textPreview":"성과는 수료율보다 현업 적용과 생산성 개선으로 측정합니다.","textChars":32,"textLines":1,"bbox":[72,132,840,44]}
+{"kind":"shape","id":"sh/107uh8zu","slide":10,"bbox":[72,186,1136,1]}
+{"kind":"shape","id":"sh/69wv2t07","slide":10,"bbox":[72,220,340,132]}
+{"kind":"textbox","id":"sh/rapcbyhs","slide":10,"text":"90%+","textPreview":"90%+","textChars":4,"textLines":1,"bbox":[92,244,300,42]}
+{"kind":"textbox","id":"sh/sbyd43ix","slide":10,"text":"교육 참여율","textPreview":"교육 참여율","textChars":6,"textLines":1,"bbox":[96,296,292,28]}
+{"kind":"shape","id":"sh/tc7ud8zi","slide":10,"bbox":[448,220,340,132]}
+{"kind":"textbox","id":"sh/q50ved0b","slide":10,"text":"85%+","textPreview":"85%+","textChars":4,"textLines":1,"bbox":[468,244,300,42]}
+{"kind":"textbox","id":"sh/b69wnihw","slide":10,"text":"수료율","textPreview":"수료율","textChars":3,"textLines":1,"bbox":[472,296,292,28]}
+{"kind":"shape","id":"sh/buxwv2hc","slide":10,"bbox":[824,220,340,132]}
+{"kind":"textbox","id":"sh/atof2x0r","slide":10,"text":"70%+","textPreview":"70%+","textChars":4,"textLines":1,"bbox":[844,244,300,42]}
+{"kind":"textbox","id":"sh/xgfexszi","slide":10,"text":"현업 적용 과제","textPreview":"현업 적용 과제","textChars":8,"textLines":1,"bbox":[848,296,292,28]}
+{"kind":"shape","id":"sh/wv6x4nix","slide":10,"bbox":[72,390,340,132]}
+{"kind":"textbox","id":"sh/jixwz2ho","slide":10,"text":"30%+","textPreview":"30%+","textChars":4,"textLines":1,"bbox":[92,414,300,42]}
+{"kind":"textbox","id":"sh/yhof6x03","slide":10,"text":"문서 작성시간 절감","textPreview":"문서 작성시간 절감","textChars":10,"textLines":1,"bbox":[96,466,292,28]}
+{"kind":"shape","id":"sh/lkzy1cze","slide":10,"bbox":[448,390,340,132]}
+{"kind":"textbox","id":"sh/kj6x87i9","slide":10,"text":"2건+","textPreview":"2건+","textChars":3,"textLines":1,"bbox":[468,414,300,42]}
+{"kind":"textbox","id":"sh/7mhg3mhk","slide":10,"text":"부서별 표준 템플릿","textPreview":"부서별 표준 템플릿","textChars":10,"textLines":1,"bbox":[472,466,292,28]}
+{"kind":"shape","id":"sh/6l8fah0z","slide":10,"bbox":[824,390,340,132]}
+{"kind":"textbox","id":"sh/2tcri5oj","slide":10,"text":"4.5+","textPreview":"4.5+","textChars":4,"textLines":1,"bbox":[844,414,300,42]}
+{"kind":"textbox","id":"sh/3ul8ra54","slide":10,"text":"교육 만족도","textPreview":"교육 만족도","textChars":6,"textLines":1,"bbox":[848,466,292,28]}
+{"kind":"textbox","id":"sh/ovu9kf6p","slide":10,"text":"10","textPreview":"10","textChars":2,"textLines":1,"bbox":[1160,680,40,20]}
+{"kind":"notes","id":"nt/rw8anc","slide":10,"text":"기대성과와 KPI\n\n[Sources]\n- https://www.lksamyang.com/ko/index.php\n- https://www.lksamyang.com/ko/about/introduce.php\n- https://biz.lksamyang.com/ko/\n- https://biz.lksamyang.com/ko/about.php"}
+{"kind":"slide","id":"sl/x15ubx","slide":11,"title":"우선 추진안","textShapes":9}
+{"kind":"textbox","id":"sh/zuh87yhw","slide":11,"text":"우선 추진안","textPreview":"우선 추진안","textChars":6,"textLines":1,"bbox":[72,54,780,70]}
+{"kind":"textbox","id":"sh/0va903yh","slide":11,"text":"시범부서 중심으로 시작해 성과 검증 후 확산합니다.","textPreview":"시범부서 중심으로 시작해 성과 검증 후 확산합니다.","textChars":28,"textLines":1,"bbox":[72,132,840,44]}
+{"kind":"shape","id":"sh/lwjq98f2","slide":11,"bbox":[72,186,1136,1]}
+{"kind":"shape","id":"sh/mhsr2dgn","slide":11,"bbox":[72,210,510,390]}
+{"kind":"textbox","id":"sh/ni18bixs","slide":11,"text":"• 1차 대상: 연구개발, 생산품질, 영업마케팅\n• 1차 인원: 15명~24명 내외\n• 운영기간: 총 5~6개월\n• 운영방식: 집체교육 + 팀 프로젝트 + 현장코칭\n• 종료 후 우수사례 표준화 및 2차 확산","textPreview":"• 1차 대상: 연구개발, 생산품질, 영업마케팅 | • 1차 인원: 15명~24명 내외 | • 운영기간: 총 5~6개월 | • 운영방식: 집체교육 + 팀 프로젝트 + 현장코칭 | • 종료 후 우수사례 표준화 및 2차 확산","textChars":115,"textLines":5,"bbox":[102,244,450,320]}
+{"kind":"shape","id":"sh/8ja94nyd","slide":11,"bbox":[650,280,102,130]}
+{"kind":"textbox","id":"sh/9kjqdsfy","slide":11,"text":"시범부서 선정","textPreview":"시범부서 선정","textChars":7,"textLines":1,"bbox":[660,308,82,70]}
+{"kind":"shape","id":"sh/alsr6xgj","slide":11,"bbox":[754,330,12,24]}
+{"kind":"shape","id":"sh/vm18fix4","slide":11,"bbox":[768,280,102,130]}
+{"kind":"textbox","id":"sh/n2tovylc","slide":11,"text":"훈련 운영","textPreview":"훈련 운영","textChars":5,"textLines":1,"bbox":[778,308,82,70]}
+{"kind":"shape","id":"sh/m1072t4r","slide":11,"bbox":[872,330,12,24]}
+{"kind":"shape","id":"sh/94b6x83i","slide":11,"bbox":[886,280,102,130]}
+{"kind":"textbox","id":"sh/832p43mx","slide":11,"text":"성과 검증","textPreview":"성과 검증","textChars":5,"textLines":1,"bbox":[896,308,82,70]}
+{"kind":"shape","id":"sh/ze9ory50","slide":11,"bbox":[990,330,12,24]}
+{"kind":"shape","id":"sh/yd07yt4v","slide":11,"bbox":[1004,280,102,130]}
+{"kind":"textbox","id":"sh/lgr6to36","slide":11,"text":"표준화","textPreview":"표준화","textChars":3,"textLines":1,"bbox":[1014,308,82,70]}
+{"kind":"shape","id":"sh/0fip0jml","slide":11,"bbox":[1108,330,12,24]}
+{"kind":"shape","id":"sh/jado3ilk","slide":11,"bbox":[1122,280,102,130]}
+{"kind":"textbox","id":"sh/i947ad4z","slide":11,"text":"확산","textPreview":"확산","textChars":2,"textLines":1,"bbox":[1132,308,82,70]}
+{"kind":"textbox","id":"sh/e5or2ho7","slide":11,"text":"11","textPreview":"11","textChars":2,"textLines":1,"bbox":[1160,680,40,20]}
+{"kind":"notes","id":"nt/x15ubx","slide":11,"text":"우선 추진안\n\n[Sources]\n- https://www.lksamyang.com/ko/index.php\n- https://www.lksamyang.com/ko/about/introduce.php\n- https://biz.lksamyang.com/ko/\n- https://biz.lksamyang.com/ko/about.php"}
+{"kind":"slide","id":"sl/lmkeef","slide":12,"title":"결론 및 요청사항","textShapes":6}
+{"kind":"textbox","id":"sh/el0zypkf","slide":12,"text":"결론 및 요청사항","textPreview":"결론 및 요청사항","textChars":9,"textLines":1,"bbox":[72,54,780,70]}
+{"kind":"textbox","id":"sh/1obit436","slide":12,"text":"LKsamyang형 AI 훈련은 현업 과제 중심의 SOJT-PBL 방식이 효과적입니다.","textPreview":"LKsamyang형 AI 훈련은 현업 과제 중심의 SOJT-PBL 방식이 효과적입니다.","textChars":48,"textLines":1,"bbox":[72,132,840,44]}
+{"kind":"shape","id":"sh/gn2h0z2l","slide":12,"bbox":[72,186,1136,1]}
+{"kind":"shape","id":"sh/3qt0velw","slide":12,"bbox":[72,214,1136,120]}
+{"kind":"textbox","id":"sh/2pkz29kr","slide":12,"text":"LKsamyang형 AI 훈련은 현업 과제 중심의 SOJT-PBL 방식이 효과적입니다.","textPreview":"LKsamyang형 AI 훈련은 현업 과제 중심의 SOJT-PBL 방식이 효과적입니다.","textChars":48,"textLines":1,"bbox":[116,254,1048,42]}
+{"kind":"textbox","id":"sh/psbixo32","slide":12,"text":"• AI 훈련은 디지털 전환의 출발점이 될 수 있습니다.\n• 실무 적용 중심 설계 시 단기 성과와 조직 내재화가 가능합니다.\n• 시범운영 승인 및 부서별 과제 발굴 협조가 필요합니다.","textPreview":"• AI 훈련은 디지털 전환의 출발점이 될 수 있습니다. | • 실무 적용 중심 설계 시 단기 성과와 조직 내재화가 가능합니다. | • 시범운영 승인 및 부서별 과제 발굴 협조가 필요합니다.","textChars":102,"textLines":3,"bbox":[120,390,1040,140]}
+{"kind":"textbox","id":"sh/or214j2h","slide":12,"text":"교육이 아닌 실질적 업무혁신 성과로 연결되는 AI 훈련체계를 구축하고자 합니다.","textPreview":"교육이 아닌 실질적 업무혁신 성과로 연결되는 AI 훈련체계를 구축하고자 합니다.","textChars":44,"textLines":1,"bbox":[180,590,920,34]}
+{"kind":"textbox","id":"sh/jup0jals","slide":12,"text":"12","textPreview":"12","textChars":2,"textLines":1,"bbox":[1160,680,40,20]}
+{"kind":"notes","id":"nt/lmkeef","slide":12,"text":"결론 및 요청사항\n\n[Sources]\n- https://www.lksamyang.com/ko/index.php\n- https://www.lksamyang.com/ko/about/introduce.php\n- https://biz.lksamyang.com/ko/\n- https://biz.lksamyang.com/ko/about.php"}
